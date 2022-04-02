@@ -1,0 +1,120 @@
+[20-Oct-2015 14:52:30 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 14:52:42 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 14:52:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 14:53:08 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 14:59:44 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 15:00:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 15:01:59 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 15:02:08 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 15:04:07 Asia/Kolkata] PHP Warning:  include(/home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/system/core/Exceptions.php on line 269
+[20-Oct-2015 15:04:07 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/views/errors/html/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/system/core/Exceptions.php on line 269
+[20-Oct-2015 15:04:07 Asia/Kolkata] PHP Warning:  include(/home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/system/core/Exceptions.php on line 269
+[20-Oct-2015 15:04:07 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/views/errors/html/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/system/core/Exceptions.php on line 269
+[20-Oct-2015 15:04:07 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 15:04:07 Asia/Kolkata] PHP Warning:  include(/home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/system/core/Exceptions.php on line 269
+[20-Oct-2015 15:04:07 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/views/errors/html/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/system/core/Exceptions.php on line 269
+[20-Oct-2015 15:04:07 Asia/Kolkata] PHP Warning:  include(/home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/system/core/Exceptions.php on line 269
+[20-Oct-2015 15:04:07 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/views/errors/html/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/system/core/Exceptions.php on line 269
+[20-Oct-2015 15:04:07 Asia/Kolkata] PHP Warning:  include(/home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/system/core/Exceptions.php on line 269
+[20-Oct-2015 15:04:07 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/views/errors/html/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/system/core/Exceptions.php on line 269
+[20-Oct-2015 15:32:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 15:32:46 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 15:43:15 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 15:48:34 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 15:49:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 15:51:04 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 15:56:17 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 507
+[20-Oct-2015 15:59:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 502
+[20-Oct-2015 15:59:54 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::coupan_detail() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 502
+[28-Oct-2015 20:42:54 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::tag_name() in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 592
+[06-Nov-2015 13:25:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/libraries/Grocery_CRUD.php on line 5533
+[06-Nov-2015 14:01:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/libraries/Grocery_CRUD.php on line 5533
+[06-Nov-2015 14:06:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/libraries/Grocery_CRUD.php on line 5533
+[06-Nov-2015 14:10:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/costcokart/public_html/nf1/NF_V4/nf3/nitaFashionsAdmin/application/libraries/Grocery_CRUD.php on line 5533
+[19-Nov-2015 09:33:28 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:33:28 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:33:31 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:33:32 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:33:32 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:33:33 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:34:21 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:34:21 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:34:26 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:34:30 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:34:31 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:34:31 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:34:32 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:34:32 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:34:33 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:34:34 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:36:17 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:37:22 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:37:45 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:37:57 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:37:58 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[19-Nov-2015 09:38:03 Etc/GMT] PHP Fatal error:  Call to undefined method User_model::xls_report_data() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/controllers/AllXlsReport.php on line 64
+[20-Nov-2015 05:54:49 Etc/GMT] PHP Fatal error:  Call to undefined function image_url() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/views/productManagement/productReport.php on line 42
+[20-Nov-2015 05:54:58 Etc/GMT] PHP Fatal error:  Call to undefined function image_url() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/views/productManagement/productReport.php on line 42
+[20-Nov-2015 05:57:38 Etc/GMT] PHP Fatal error:  Call to undefined function image_url() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/views/productManagement/productReport.php on line 42
+[20-Nov-2015 05:57:42 Etc/GMT] PHP Fatal error:  Call to undefined function image_url() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/views/productManagement/productReport.php on line 42
+[20-Nov-2015 05:57:44 Etc/GMT] PHP Fatal error:  Call to undefined function image_url() in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/views/productManagement/productReport.php on line 42
+[23-Nov-2015 04:47:33 Etc/GMT] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/views/userRecordManagement/workerOrderReceipt.php on line 28
+[23-Nov-2015 04:48:29 Etc/GMT] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/views/userRecordManagement/workerOrderReceipt.php on line 28
+[23-Nov-2015 04:48:30 Etc/GMT] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/views/userRecordManagement/workerOrderReceipt.php on line 28
+[23-Nov-2015 04:48:32 Etc/GMT] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/shridigc/public_html/costcointernational.com/nitaFashionsAdmin/application/views/userRecordManagement/workerOrderReceipt.php on line 28
+[17-Dec-2015 05:51:58 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/shridigc/public_html/v1.costcointernational.com/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 769
+[01-Dec-2016 05:22:04 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home1/n1c7v2s5/public_html/nitaFashionsAdmin/application/controllers/UserRecordManagement.php on line 575
+[01-Dec-2016 05:23:44 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home1/n1c7v2s5/public_html/nitaFashionsAdmin/application/controllers/UserRecordManagement.php on line 639
+[04-Dec-2016 02:48:39 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home1/n1c7v2s5/public_html/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 1089
+[04-Dec-2016 02:50:30 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home1/n1c7v2s5/public_html/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 1089
+[04-Dec-2016 02:50:55 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home1/n1c7v2s5/public_html/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 1089
+[04-Dec-2016 02:53:23 America/Chicago] PHP Fatal error:  Call to a member function query_exe() on null in /home1/n1c7v2s5/public_html/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 1090
+[04-Dec-2016 02:55:02 America/Chicago] PHP Fatal error:  Call to a member function query_exe() on null in /home1/n1c7v2s5/public_html/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 1090
+[04-Dec-2016 02:56:32 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/n1c7v2s5/public_html/nitaFashionsAdmin/application/views/errors/html/error_php.php on line 15
+[04-Dec-2016 02:59:39 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/n1c7v2s5/public_html/nitaFashionsAdmin/application/controllers/ProductHandler.php on line 1092
+[08-Dec-2016 09:08:27 America/Chicago] PHP Fatal error:  Call to undefined function vardump() in /home1/n1c7v2s5/public_html/nitaFashionsAdmin/application/views/userRecordManagement/updateOrderStatus.php on line 822
+[08-Dec-2016 09:08:33 America/Chicago] PHP Fatal error:  Call to undefined function vardump() in /home1/n1c7v2s5/public_html/nitaFashionsAdmin/application/views/userRecordManagement/updateOrderStatus.php on line 822
+[08-Dec-2016 09:08:51 America/Chicago] PHP Fatal error:  Call to undefined function vardump() in /home1/n1c7v2s5/public_html/nitaFashionsAdmin/application/views/userRecordManagement/updateOrderStatus.php on line 822
+[03-Jan-2018 12:21:56 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/application/controllers/QueryHandler.php on line 82
+[30-Apr-2021 01:38:44 Asia/Hong_Kong] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php on line 658 and defined in /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Exceptions.php on line 190
+[30-Apr-2021 01:48:13 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected 'defined' (T_STRING) in /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Exceptions.php on line 1
+[30-Apr-2021 01:48:13 Asia/Hong_Kong] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Apr-2021 01:48:13 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Class 'CI_Exceptions' not found in /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php:196
+Stack trace:
+#0 /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php(617): load_class('Exceptions', 'core')
+#1 [internal function]: _error_handler(2, 'Cannot modify h...', '/home/bookbnev/...', 564, Array)
+#2 /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php(564): header('Status: 500 Int...', true)
+#3 /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php(607): set_status_header(500)
+#4 /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php(688): _error_handler(16, 'Exception throw...', 'Unknown', 0)
+#5 [internal function]: _shutdown_handler()
+#6 {main}
+  thrown in /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php on line 196
+[30-Apr-2021 01:53:23 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected 'defined' (T_STRING) in /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Exceptions.php on line 1
+[30-Apr-2021 01:53:23 Asia/Hong_Kong] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Apr-2021 01:53:23 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Class 'CI_Exceptions' not found in /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php:196
+Stack trace:
+#0 /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php(617): load_class('Exceptions', 'core')
+#1 [internal function]: _error_handler(2, 'Cannot modify h...', '/home/bookbnev/...', 564, Array)
+#2 /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php(564): header('Status: 500 Int...', true)
+#3 /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php(607): set_status_header(500)
+#4 /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php(688): _error_handler(16, 'Exception throw...', 'Unknown', 0)
+#5 [internal function]: _shutdown_handler()
+#6 {main}
+  thrown in /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php on line 196
+[30-Apr-2021 01:53:26 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected 'defined' (T_STRING) in /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Exceptions.php on line 1
+[30-Apr-2021 01:53:26 Asia/Hong_Kong] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Apr-2021 01:53:26 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Class 'CI_Exceptions' not found in /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php:196
+Stack trace:
+#0 /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php(617): load_class('Exceptions', 'core')
+#1 [internal function]: _error_handler(2, 'Cannot modify h...', '/home/bookbnev/...', 564, Array)
+#2 /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php(564): header('Status: 500 Int...', true)
+#3 /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php(607): set_status_header(500)
+#4 /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php(688): _error_handler(16, 'Exception throw...', 'Unknown', 0)
+#5 [internal function]: _shutdown_handler()
+#6 {main}
+  thrown in /home/bookbnev/public_html/app.padhaivadhai.com/padhaiVadhaiAdmin/system/core/Common.php on line 196
