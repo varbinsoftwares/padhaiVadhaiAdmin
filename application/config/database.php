@@ -58,6 +58,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | The $query_builder variables lets you determine whether or not to load
 | the query builder class.
 */
+//$activedb = "u282820314_padaiv";
+//$activeusername = "u282820314_padaiv";
+//$activepassword = "G7}=DZyZH5@Z";
+
 
 $active_group = 'default';
 $query_builder = TRUE;
@@ -65,9 +69,9 @@ $query_builder = TRUE;
 $db['default'] = array( 
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'bookbnev_padaiv',
+	'username' => 'u282820314_padaiv',
 	'password' => 'G7}=DZyZH5@Z',
-	'database' => 'bookbnev_padaiv',
+	'database' => 'u282820314_padaiv',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
